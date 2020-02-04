@@ -1,0 +1,22 @@
+{
+    "require": {
+        "php": "*.*",
+        "illuminate/database": "*.*",
+        "vlucas/phpdotenv": "^4.1"
+    },
+    "autoload": {
+        "classmap": [
+            "database/"
+        ]         
+        ,
+        "psr-4": {
+            "libs\\": "libs/",
+            "app\\": "app/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
