@@ -1,6 +1,6 @@
 # eloquent_with_out_laravel
 
-- create php run as systemd in centos, linux
+- create php use composer, eloquent then run as systemd in centos, linux 
 
 - https://linuxize.com/post/install-php-7-on-centos-7/
 - https://www.ringingliberty.com/2016/04/19/php-script-with-systemd/
